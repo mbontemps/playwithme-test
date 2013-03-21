@@ -1,2 +1,3 @@
 #!/bin/sh
 echo "<h2>Initialized</h2>" >> web/index.html
+echo "Everything went fine"
