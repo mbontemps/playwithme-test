@@ -1,0 +1,2 @@
+steps:
+    - run "./bin/playwithme"
