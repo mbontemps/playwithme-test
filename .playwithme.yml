@@ -1,2 +1,6 @@
+branches:
+    only:
+        master
+
 steps:
     - run "./bin/playwithme"
