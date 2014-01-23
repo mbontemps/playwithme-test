@@ -1,6 +1,6 @@
-branches:
-    only:
-        master
-
-steps:
+install:
     - run "./bin/playwithme"
+
+branches:
+    - master
+    - feature/fixed
